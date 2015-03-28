@@ -1,9 +1,9 @@
 {
-    'name': 'Mage2odoo Email Customer',
+    'name': 'Omniship Email Customer',
     'version': '1.1',
     'author': 'Kyle Waid',
     'category': 'Sales Management',
-    'depends': ['mage2odoo', 'stock_email_tracking'],
+    'depends': ['omniship', 'stock_email_tracking'],
     'website': 'https://www.gcotech.com',
     'description': """ 
     """,
